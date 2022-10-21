@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: auto;
+    background-color: hsl(180, 52%, 96%);
+    font-size: 15px;
+}
+
+header {
+    background-color: hsl(180, 29%, 50%) ;
+    background-image: url("assets/images/bg-header-desktop.svg");
+    height: 9em;
+    margin-bottom: 5rem;
+}
+
+main {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+#profesi1 {
+    width: 1440px;
+    padding: 13px 13px 7px 13px;
+    margin-bottom: 26px;
+    box-shadow: 2px 4px 6px 2px rgb(44 59 80 / 25%);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    height: 9em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#profesi2 {
+    width: 1440px;
+    padding: 13px 13px 7px 13px;
+    margin-bottom: 26px;
+    box-shadow: 2px 4px 6px 2px rgb(44 59 80 / 25%);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    height: 9em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#profesi3 {
+    width: 1440px;
+    padding: 13px 13px 7px 13px;
+    margin-bottom: 26px;
+    box-shadow: 2px 4px 6px 2px rgb(44 59 80 / 25%);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    height: 9em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#profesi4 {
+    width: 1440px;
+    padding: 13px 13px 7px 13px;
+    margin-bottom: 26px;
+    box-shadow: 2px 4px 6px 2px rgb(44 59 80 / 25%);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    height: 9em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#profesi5 {
+    width: 1440px;
+    padding: 13px 13px 7px 13px;
+    margin-bottom: 26px;
+    box-shadow: 2px 4px 6px 2px rgb(44 59 80 / 25%);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    height: 9em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#profesi6 {
+    width: 1440px;
+    padding: 13px 13px 7px 13px;
+    margin-bottom: 26px;
+    box-shadow: 2px 4px 6px 2px rgb(44 59 80 / 25%);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    height: 9em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#profesi7 {
+    width: 1440px;
+    padding: 13px 13px 7px 13px;
+    margin-bottom: 26px;
+    box-shadow: 2px 4px 6px 2px rgb(44 59 80 / 25%);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    height: 9em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#profesi8 {
+    width: 1440px;
+    padding: 13px 13px 7px 13px;
+    margin-bottom: 26px;
+    box-shadow: 2px 4px 6px 2px rgb(44 59 80 / 25%);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    height: 9em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#profesi9 {
+    width: 1440px;
+    padding: 13px 13px 7px 13px;
+    margin-bottom: 26px;
+    box-shadow: 2px 4px 6px 2px rgb(44 59 80 / 25%);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    height: 9em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#profesi10 {
+    width: 1440px;
+    padding: 13px 13px 7px 13px;
+    margin-bottom: 26px;
+    box-shadow: 2px 4px 6px 2px rgb(44 59 80 / 25%);
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    height: 9em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.logo img {
+    margin-left: 30px;
+}
+
+.informasi {
+    width: 1440px;
+    height: auto;
+    padding: 13px 13px 7px 13px;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.informasi .cpn {
+    color: hsl(180, 29%, 50%);
+    font-weight: 700;
+}
+
+.informasi .nws {
+    padding: 5px;
+    box-sizing: border-box;
+    color: white;
+    border-radius: 20px;
+    width: 3em;
+    background-color: hsl(180, 29%, 50%);
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.informasi .ftr {
+    padding: 5px;
+    box-sizing: border-box;
+    color: white;
+    border-radius: 20px;
+    width: 3em;
+    background-color: hsl(0, 0%, 0%);
+    margin-left: 10px;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.informasi h5 {
+    font-weight: 00;
+}
